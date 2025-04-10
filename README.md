@@ -1,1 +1,2 @@
 # Scientific_computing
+Implementierung von Gleitkommazahlen, lineare Gleichungssysteme, lineare Ausgleichsrechnung, nichtlineare Gleichungen, Eigenwerte, Singulärwertzerlegung, Approximation und Interpolation, diskrete Fouriertransformation und FFT, Optimierung in Python
